@@ -9,11 +9,13 @@ In addition to the data analysis the VBA code was refracted to improve performan
 (1) Compare the stock performance between 2017 and 2018.
 The analysis was performed on 12 stocks comparing 2017 returns to 2018.  Overall, 10 of the 12 stocks saw significate declines in their yearly return.  Stock Ticker RUN saw the largest increase from 2017 to 2018.  While Stock Ticker TERP saw a slight uptick in return going from lose of -7.2% in 2017 to -5% in 2018.
 
-
+<img width="500" alt="Performance 2017 to 2018" src="https://user-images.githubusercontent.com/96347024/148651826-693f334c-3298-4a4d-ab13-dee1348b5254.png">
 
 (2) Compare the execution times of the original script and the refactored script.
-The execution times for the original VBA code for 2017 and 2018 were 6 seconds.  When refactored the code ran for 5 seconds.  This is an improvement of 1 second.  
+The execution times for the original VBA code for 2017 and 2018 were 6 seconds.  When refactored the code ran for 5 seconds, see screen shots for exact times below.  This is an improvement of 1 second.  
 
+<img width="300" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/96347024/148651845-90718563-5dce-4147-b63f-08714f0f8460.png">
+<img width="300" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/96347024/148651849-d807e774-db7d-4b4d-a112-a3f54259e2e0.png">
 
 
 ## Summary
